@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+spring-security-auth-server/mvnw/
+spring-security-auth-server/spring-security-auth-server.iml
+spring-security-auth-server/target
+spring-security-client/spring-security-client.iml
+spring-security-client/spring-security-client.iml
+spring-security-client/target
